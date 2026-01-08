@@ -1,6 +1,6 @@
-👋 Hi there! I'm Doaa  
+👋 Hi! I'm Doaa  
 
-📊 Junoir Data Analyst  
+📊 Junior Data Analyst  
 🎓 Earned MaharahTech and "Python for Everyone" certificates  
 🧠 Skills: Excel, Power BI, SQL, Python  
 🧩 Currently working on projects to apply and improve my analytical skills  
